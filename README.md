@@ -91,6 +91,14 @@ Also Adds option to login from token on login form.
 
 ![image](https://tharki-god.github.io/files-random-host/bdpluginsassets/token.png)
 
+- ### [VCDuration](https://github.com/Tharki-God/VCDuration)
+
+Shows how much time has passed since you joined a voice channel.
+
+Works for more than 24 hrs unlike old powercord and better discord versions.
+
+![image](https://tharki-god.github.io/files-random-host/bdpluginsassets/vctimer.gif)
+
 ---
 
 ## Unofficial Plugins
